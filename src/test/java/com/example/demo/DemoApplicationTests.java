@@ -11,3 +11,7 @@ class DemoApplicationTests {
 	}
 
 }
+class NewExample{
+    void newFun(){}
+}
+
