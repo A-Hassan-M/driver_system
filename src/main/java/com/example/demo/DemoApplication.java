@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("Starting");
 		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("This is a new update in the project..Ziad Mohamed Samir...20200204");
 	}
 
 }
