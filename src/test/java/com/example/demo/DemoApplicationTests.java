@@ -9,7 +9,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 
-		System.out.println("section 1 Task")
+		System.out.println("section 1 task")
 	}
 
 }
