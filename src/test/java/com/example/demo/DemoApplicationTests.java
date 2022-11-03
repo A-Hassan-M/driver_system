@@ -9,7 +9,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Updated");
+		System.out.println("Updated ");
 	}
 
 }
